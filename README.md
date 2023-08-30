@@ -1,17 +1,17 @@
-## CSS Chapter 19
+## Chapter 19: Pseudo
 It is my coding practice with the TUTORIAL of Dave Gray. 
 
 ## Source
+### Dave Gray 的 CSS 資源
+https://github.com/gitdagray/css_course
+
 ### Dave Gray 的 CSS 課程
 https://youtube.com/playlist?list=PL0Zuz27SZ-6Mx9fd9elt80G1bPcySmWit
 
 ### Dave Gray 的 YouTube 頻道
 https://www.youtube.com/@DaveGrayTeachesCode
 
-## CSS Chapter 19
-   Quick Concept outline
-   中文摘要說明與重點提問
-
+## Quick Concept outline
 ###  1. Intro
         教學影片固定的開頭
 
